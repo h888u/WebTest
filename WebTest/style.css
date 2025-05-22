@@ -1,0 +1,54 @@
+h1{
+    color: green;
+}
+p{
+    color: rgb(17, 164, 22);
+}
+
+/*Applies to all h1 and p elements*/
+
+h1{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: 'Comic Sans MS';
+}
+
+/*About Us Menu Page Style */
+a{
+font-family : 'Papyrus', 'Comic Sans MS', cursive;
+text-decoration : none;
+background-color: greenyellow;
+padding : 5px;
+}
+a:hover{
+background-color: aqua;
+color : #ffffff;
+}
+
+/*How to style separate paragraphs...? incorrect code below: solve by using div  */
+p1{
+color: green;
+
+font: 'Comic Sans MS';
+font-size: 20px;
+}
+
+#menu-bar a{
+    font-family: "Papyrus";
+    text-decoration: wavy;
+    background-color: greenyellow;
+    padding: 5px;
+}
+#menu-bar a:hover{
+    background-color: green;
+    color: #ffffff;
+}
+
+#secret-page a{
+color: white;
+font-family: 'Papyrus';
+background-color: white;
+
+}
